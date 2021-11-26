@@ -13,7 +13,6 @@ body{
     border: solid 0px transparent;
     border-radius: 60px;
     flex-direction: column-reverse;
-    align-content: space-between;
     justify-content: center;
     align-items: center;
     background-image: linear-gradient(to top,#ff0,orange,#f0f,#f0f,#05f);
@@ -26,7 +25,6 @@ body{
     border: solid 30px white;
     border-radius: 60px;
     flex-direction: column-reverse;
-    align-content: space-between;
     justify-content: center;
     align-items: center;
     
