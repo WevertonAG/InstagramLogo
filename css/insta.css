@@ -16,7 +16,7 @@ body{
     align-content: space-between;
     justify-content: center;
     align-items: center;
-    background-image: repeating-linear-gradient(#ff0, #f0f,#05f);
+    background-image: repeating-linear-gradient(to top left,#ff0,#ff0, #f0f,#05f,#05f);
 }
 .borda{
     position: relative;
