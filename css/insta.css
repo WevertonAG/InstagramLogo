@@ -11,7 +11,7 @@ body{
     height: 580px;
     width: 600px;
     border: solid 0px transparent;
-    border-radius: 60px;
+    border-radius: 100px;
     flex-direction: column-reverse;
     justify-content: center;
     align-items: center;
@@ -23,7 +23,7 @@ body{
     height: 380px;
     width: 400px;
     border: solid 40px white;
-    border-radius: 60px;
+    border-radius: 100px;
     flex-direction: column-reverse;
     justify-content: center;
     align-items: center;
@@ -32,17 +32,16 @@ body{
 .circulo{
     position: relative;
     display: flex;
-    bottom: 10px;
+    bottom: 15px;
     left: 2px;
-    height: 175px;
-    width: 175px;
+    height: 180px;
+    width: 180px;
     border: solid 40px white;
     border-radius: 200px;
 }
 .bolinha{
     position: relative;
-    bottom: 10px;
-    left: 145px;
+    left: 140px;
     margin: 0;
     height: 5px;
     width: 5px;
