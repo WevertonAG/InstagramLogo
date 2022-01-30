@@ -16,6 +16,8 @@ body{
     justify-content: center;
     align-items: center;
     background-image: linear-gradient(to top,#ff0,orange,red,#f0f,#05f);
+    box-shadow: 0px 5px 15px 0.1px;
+    
 }
 .borda{
     position: relative;
