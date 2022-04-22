@@ -9,6 +9,7 @@ body{
     padding: 70px;
     background-color: #444;
     justify-content: center;  
+    overflow: hidden;
 }
 .fundo{
     position: relative;
